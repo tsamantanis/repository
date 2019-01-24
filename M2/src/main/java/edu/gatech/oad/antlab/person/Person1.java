@@ -1,4 +1,4 @@
-package edu.gatech.oad.antlab.person;
+//package edu.gatech.oad.antlab.person;
 
 /**
  *  A simple class for person 1
@@ -19,6 +19,7 @@ public class Person1 {
   public Person1(String pname) {
     name = pname;
   }
+
   	/**
 	 * This method should take the string
 	 * input and return its characters rotated
@@ -29,9 +30,11 @@ public class Person1 {
 	 * @param input the string to be modified
 	 * @return the modified string
 	 */
-	private String calc(String input) {
+	private static String calc(String input) {
 	  //Person 1 put your implementation here
-	  return null;
+	  String firstTwo = input.substring(0, 2);
+		String end = input.substring(2, input.length());
+		return end + firstTwo;
 	}
 	
 	/**
