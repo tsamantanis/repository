@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afc71a0c-0f9b-4d3c-b2ab-79fc194d7ed3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/'" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2/readme.p1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2/readme.p3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2/readme.p4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M2/src/main/java/edu/gatech/oad/antlab/person/Person1.java" beforeDir="false" afterPath="$PROJECT_DIR$/M2/src/main/java/edu/gatech/oad/antlab/person/Person1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M2/src/main/java/edu/gatech/oad/antlab/person/Person2.java" beforeDir="false" afterPath="$PROJECT_DIR$/M2/src/main/java/edu/gatech/oad/antlab/person/Person2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M2/src/main/java/edu/gatech/oad/antlab/person/Person3.java" beforeDir="false" afterPath="$PROJECT_DIR$/M2/src/main/java/edu/gatech/oad/antlab/person/Person3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M2/src/main/java/edu/gatech/oad/antlab/person/Person4.java" beforeDir="false" afterPath="$PROJECT_DIR$/M2/src/main/java/edu/gatech/oad/antlab/person/Person4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/M2/src/main/java/edu/gatech/oad/antlab/person/Person5.java" beforeDir="false" afterPath="$PROJECT_DIR$/M2/src/main/java/edu/gatech/oad/antlab/person/Person5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/M2/src/main/java/edu/gatech/oad/antlab/pkg1/AntLabMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/M2/src/main/java/edu/gatech/oad/antlab/pkg1/AntLabMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M2/useless.p1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/M2/useless.p3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/M2/useless.p4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/M2/useless.p5.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,37 +34,46 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="1" />
+          <entry key="java" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="234" />
+          <entry key="java" value="262" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="234" />
+          <entry key="JAVA" value="262" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/M2/src/main/java/edu/gatech/oad/antlab/person/Person5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="549">
-              <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+            <state relative-caret-position="387">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
               <folding>
                 <element signature="e#1133#1134#0" expanded="true" />
                 <element signature="e#1166#1167#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/M2/src/main/java/edu/gatech/oad/antlab/pkg1/AntLabMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="819">
+              <caret line="87" column="7" lean-forward="true" selection-start-line="87" selection-start-column="7" selection-end-line="87" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -64,6 +86,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/M2/src/main/java/edu/gatech/oad/antlab/pkg1/AntLabMain.java" />
         <option value="$PROJECT_DIR$/M2/src/main/java/edu/gatech/oad/antlab/person/Person5.java" />
       </list>
     </option>
@@ -74,7 +97,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -182,6 +205,19 @@
               <item name="antlab" type="462c0819:PsiDirectoryNode" />
               <item name="person" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="repository" type="b2602c69:ProjectViewProjectNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+              <item name="M2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="gatech" type="462c0819:PsiDirectoryNode" />
+              <item name="oad" type="462c0819:PsiDirectoryNode" />
+              <item name="antlab" type="462c0819:PsiDirectoryNode" />
+              <item name="pkg1" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -219,12 +255,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548291097234</updated>
-      <workItem from="1548291099344" duration="1618000" />
+      <workItem from="1548291099344" duration="2130000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1618000" />
+    <option name="totallyTimeSpent" value="2130000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -269,12 +305,19 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/M2/src/main/java/edu/gatech/oad/antlab/person/Person5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+        <state relative-caret-position="387">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
           <folding>
             <element signature="e#1133#1134#0" expanded="true" />
             <element signature="e#1166#1167#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M2/src/main/java/edu/gatech/oad/antlab/pkg1/AntLabMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="87" column="7" lean-forward="true" selection-start-line="87" selection-start-column="7" selection-end-line="87" selection-end-column="7" />
         </state>
       </provider>
     </entry>
