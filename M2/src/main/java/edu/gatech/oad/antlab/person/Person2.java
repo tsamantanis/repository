@@ -1,4 +1,4 @@
-// package edu.gatech.oad.antlab.person;
+package edu.gatech.oad.antlab.person;
 import java.lang.Math;
 /**
  *  A simple class for person 2

@@ -1,9 +1,9 @@
-//package edu.gatech.oad.antlab.person;
+package edu.gatech.oad.antlab.person;
 
 /**
  *  A simple class for person 4
  *  returns their name and a
- *  modified string 
+ *  modified string
  *
  *  @author Bob
  *  @version 1.1
