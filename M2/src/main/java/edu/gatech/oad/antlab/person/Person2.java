@@ -40,9 +40,8 @@ public class Person2 {
           String temp3 = input.substring(0, x);
           String temp2 = input.substring(x, input.length());
           temp = temp2 + temp3;
-          System.out.println(temp);
       }
-	  return null;
+	  return temp;
 	}
 	/**
 	 * Return a string rep of this object
